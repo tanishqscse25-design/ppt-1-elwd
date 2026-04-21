@@ -1,0 +1,154 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TechFront 2024</title>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+<h1>TechFront 2024</h1>
+<button>Register Now</button>
+<hr>
+</header>
+
+<!-- HERO -->
+<section>
+<h2>Where Innovation Meets Experience</h2>
+<p>October 2024 • San Francisco</p>
+
+<video controls width="500">
+<source src="promo.mp4" type="video/mp4">
+</video>
+</section>
+
+<hr>
+
+<!-- ABOUT -->
+<section>
+<h2>About Event</h2>
+<p>Join 5000+ innovators, founders, and engineers for 3 days of AI, Web3, and future technologies.</p>
+</section>
+
+<hr>
+
+<!-- SCHEDULE -->
+<section>
+<h2>Conference Schedule</h2>
+
+<table border="1">
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+</tr>
+
+<tr>
+<td>09:00 AM</td>
+<td>Opening Keynote: AI Decade</td>
+<td>Web3 Futures</td>
+<td>Future of Work</td>
+</tr>
+
+<tr>
+<td>11:00 AM</td>
+<td>Prompt Engineering Workshop</td>
+<td>AI Ethics Panel</td>
+<td>Startup Pitch Lab</td>
+</tr>
+
+<tr>
+<td>01:00 PM</td>
+<td>Lunch</td>
+<td>Lunch & Expo</td>
+<td>Mentorship Roundtable</td>
+</tr>
+
+<tr>
+<td>03:00 PM</td>
+<td>LLMs Deep Dive</td>
+<td>Robotics Showcase</td>
+<td>Awards Ceremony</td>
+</tr>
+
+<tr>
+<td>06:00 PM</td>
+<td>Welcome Reception</td>
+<td>Investor Mixer</td>
+<td>Closing Gala</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<!-- SPEAKERS -->
+<section>
+<h2>Speakers</h2>
+
+<h3>Dr. Maya Chen</h3>
+<p>Chief AI Officer</p>
+
+<h3>Marcus Rivera</h3>
+<p>Web3 Expert</p>
+
+<h3>Dr. Priya Nair</h3>
+<p>Robotics Head</p>
+
+<h3>James Okafor</h3>
+<p>Investor</p>
+
+</section>
+
+<hr>
+
+<!-- TICKETS -->
+<section>
+<h2>Tickets</h2>
+
+<p>General Pass - $299</p>
+<meter value="72" min="0" max="100"></meter>
+
+<p>Pro Pass - $599</p>
+<meter value="41" min="0" max="100"></meter>
+
+<p>VIP Pass - $1299</p>
+<meter value="12" min="0" max="100"></meter>
+
+</section>
+
+<hr>
+
+<!-- REGISTRATION -->
+<section>
+<h2>Register Now</h2>
+
+<form>
+<label>Name:</label><br>
+<input type="text" required><br><br>
+
+<label>Company:</label><br>
+<input type="text"><br><br>
+
+<label>Select Ticket:</label><br>
+<select>
+<option>General</option>
+<option>Pro</option>
+<option>VIP</option>
+</select><br><br>
+
+<label>Dietary Preferences:</label><br>
+<input type="text"><br><br>
+
+<button type="submit">Confirm & Pay</button>
+</form>
+
+</section>
+
+</body>
+</html>
